@@ -54,8 +54,8 @@
         "revision":     "uvite-SN100X-legacy"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_oneplus",
+        "remote":       "github",
+        "repository":   "thubble/proprietary_vendor_oneplus",
         "target_path":  "vendor/oneplus",
         "revision":     "uvite",
         "clone-depth":  "1"
